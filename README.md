@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Jayam pandit</h1>
 <h3 align="center">Just exploring Tech</h3>
-<img align="right" alt="coding" witdh="400" src="https://i.gifer.com/9cIT.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jayam30&label=Profile%20views&color=0e75b6&style=flat" alt="jayam30" /> </p>
+<!-- <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207..."> -->
 
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=jayam30&label=Profile%20views&color=0e75b6&style=flat" alt="jayam30" /> </p>
+![tumblr_ninugsLO3F1tgyrb1o1_500](https://user-images.githubusercontent.com/94307580/200188883-c41ffcf2-fc93-4a6f-9ce5-55ffb2dbf5a5.gif)
+ -->
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jayam30" alt="jayam30" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/the_jayam" target="blank"><img src="https://img.shields.io/twitter/follow/the_jayam?logo=twitter&style=for-the-badge" alt="the_jayam" /></a> </p>
