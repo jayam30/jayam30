@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jayam pandit</h1>
 <h3 align="center">Just exploring Tech</h3>
+<img align="right" alt="coding" witdh="400" src="https://gifer.com/en/9cIT">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jayam30&label=Profile%20views&color=0e75b6&style=flat" alt="jayam30" /> </p>
 
